@@ -1,0 +1,44 @@
+
+h1 
+{ 
+font-size: 60px ;
+text-align: center;
+}
+
+#box1 
+{ 
+background-color: rgb(208, 188, 154);
+margin-left: 200px ;
+margin-right: 200px;
+justify-content: start;
+}
+
+h2 
+{
+font-size: 10px ;
+margin-left: 10px ;
+margin-right: 10px;
+}
+
+#tx1 
+{ 
+font-size: 15px ;
+font-family:'Times New Roman', Times, serif;
+}
+#kepsor
+{ 
+border-image: 200px;
+}
+
+img 
+{
+border-radius: 25px;
+}
+
+.d-block
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;  
+}
